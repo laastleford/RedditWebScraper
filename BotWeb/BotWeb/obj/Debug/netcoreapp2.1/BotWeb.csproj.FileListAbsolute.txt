@@ -1,0 +1,12 @@
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\bin\Debug\netcoreapp2.1\BotWeb.deps.json
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\bin\Debug\netcoreapp2.1\BotWeb.runtimeconfig.json
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\bin\Debug\netcoreapp2.1\BotWeb.runtimeconfig.dev.json
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\bin\Debug\netcoreapp2.1\BotWeb.dll
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\obj\Debug\netcoreapp2.1\BotWeb.csproj.CoreCompileInputs.cache
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\obj\Debug\netcoreapp2.1\BotWeb.AssemblyInfoInputs.cache
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\obj\Debug\netcoreapp2.1\BotWeb.AssemblyInfo.cs
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\obj\Debug\netcoreapp2.1\BotWeb.csprojAssemblyReference.cache
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\bin\Debug\netcoreapp2.1\BotWeb.pdb
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\obj\Debug\netcoreapp2.1\BotWeb.dll
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\obj\Debug\netcoreapp2.1\BotWeb.pdb
+C:\Users\laast\OneDrive\Documents\Visual Studio 2017\Projects\BotWeb\BotWeb\BotWeb\bin\Debug\netcoreapp2.1\chromedriver.exe
